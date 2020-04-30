@@ -1,0 +1,32 @@
+Creación de estructuras de directorios
+
+(Compartir y administrar directorios en un dominio)
+
+1) Crear directorio "Curso 2019"
+		
+	-Compartir con grupo Informática
+
+	Dentro de él:
+		
+		-Inf01	-Inf02	-Inf03
+		-Inf04	-Inf05	-Inf06
+
+	Montar la carpeta en la unidad Z:
+
+		-Usuarios móviles
+			
+			Perfil- montar en z
+
+		-Montar a Mano
+
+2)Comprobar:
+
+Cuentausuario1!
+
+	-Otros grupos no acceso
+
+	-Mismo grupo no acceso a Directorios
+
+3)Dentro de "Curso2019" crear Carpeta 1ASIR
+
+	Acceso solo de Grupo Informática
